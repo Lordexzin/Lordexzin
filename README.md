@@ -9,43 +9,43 @@
   </a>
 </p>
 
-I'm a **Computer Science student** and **IT Support Analyst** based in Brasília, DF[cite: 1]. I specialize in hardware infrastructure, network administration, endpoint security, and automation[cite: 1]. I enjoy building efficient workflows, managing technical environments, and bridging the gap between infrastructure precision and development[cite: 1].
+I'm a **Computer Science student** and **IT Support Analyst** based in Brasília, DF. I specialize in hardware infrastructure, network administration, endpoint security, and automation. I enjoy building efficient workflows, managing technical environments, and bridging the gap between infrastructure precision and development.
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 Currently pursuing my **B.Sc. in Computer Science** at UniCEUB (3rd Semester).
-- 🛠️ Working as an **IT Support Analyst (L1/L2)**, specializing in troubleshooting, infrastructure management, and maintaining system availability[cite: 1].
-- 🔐 Passionate about Network Engineering, Cybersecurity, and Infrastructure Automation[cite: 1].
-- 📈 Proven track record of reducing hardware downtime by up to 60% through structured preventative diagnostics[cite: 1].
+- 🛠️ Working as an **IT Support Analyst (L1/L2)**, specializing in troubleshooting, infrastructure management, and maintaining system availability.
+- 🔐 Passionate about Network Engineering, Cybersecurity, and Infrastructure Automation.
+- 📈 Proven track record of reducing hardware downtime by up to 60% through structured preventative diagnostics.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 #### Languages & Automation
-- Python[cite: 1] | PowerShell[cite: 1]
+- Python | PowerShell
 
 #### Networks & Infrastructure
-- TCP/IP[cite: 1] | DHCP[cite: 1] | DNS[cite: 1] | VPN[cite: 1] | Structured Cabling (Cat5e/Cat6)[cite: 1]
-- Hardware Diagnostics & Maintenance[cite: 1] | Switches & Routers Configuration[cite: 1]
+- TCP/IP | DHCP | DNS | VPN | Structured Cabling (Cat5e/Cat6)
+- Hardware Diagnostics & Maintenance | Switches & Routers Configuration
 
 #### Identity & Access Management
-- Active Directory[cite: 1] | Azure AD / Entra ID[cite: 1] | Microsoft 365 Administration[cite: 1]
+- Active Directory | Azure AD / Entra ID | Microsoft 365 Administration
 
 #### Tools & Workflows
-- ITIL / SLA Management[cite: 1] | GLPI[cite: 1] | ServiceNow[cite: 1] | Jira Service Desk[cite: 1]
-- Windows Ecosystem (10/11 & Server basics)[cite: 1]
+- ITIL / SLA Management | GLPI | ServiceNow | Jira Service Desk
+- Windows Ecosystem (10/11 & Server basics)
 
 ---
 
 ### 🏅 Certifications & Education
 
-- **Cisco Networking Academy:** Networking Fundamentals 🌐[cite: 1]
-- **Cybersecurity:** Introduction to Cybersecurity & Ethical Hacker 🔐[cite: 1]
-- **Programming:** Python Fundamentals – From Basics to AI 🐍[cite: 1]
-- **In Progress:** CompTIA Network+ | CompTIA Security+ | CCNA | Microsoft MD-102[cite: 1]
+- **Cisco Networking Academy:** Networking Fundamentals 🌐
+- **Cybersecurity:** Introduction to Cybersecurity & Ethical Hacker 🔐
+- **Programming:** Python Fundamentals – From Basics to AI 🐍
+- **In Progress:** CompTIA Network+ | CompTIA Security+ | CCNA | Microsoft MD-102
 
 ---
 
@@ -60,6 +60,6 @@ I'm a **Computer Science student** and **IT Support Analyst** based in Brasília
 
 ### 📬 Connect with me
 
-- 📍 **Location:** Brasília - DF, Brazil[cite: 1]
-- 💼 **LinkedIn:** [linkedin.com/in/lucas-vieira-401440328](https://www.linkedin.com/in/lucas-vieira-401440328)[cite: 1]
-- 📧 **Email:** [lucasviese@gmail.com](mailto:lucasviese@gmail.com)[cite: 1]
+- 📍 **Location:** Brasília - DF, Brazil
+- 💼 **LinkedIn:** [linkedin.com/in/lucas-vieira-401440328](https://www.linkedin.com/in/lucas-vieira-401440328)
+- 📧 **Email:** [lucasviese@gmail.com](mailto:lucasviese@gmail.com)
