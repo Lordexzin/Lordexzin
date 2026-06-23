@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Estilo Terminal Hacker -->
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=root@lordexzin:~$&subtitle=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Networking&theme=matrix&fontSize=35&fontAlignY=40&flash=true" width="100%" alt="Terminal Header"/>
+<!-- Banner Estilo Hacker Matrix -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF00,100:000000&height=200&section=header&text=LORDEXZIN&fontSize=40&fontAlignY=35" width="100%" alt="Hacker Header"/>
 
 <br/>
 
@@ -11,26 +11,26 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Ciência_da_Computação-UniCEUB-00FF00?style=flat-square&logo=graduation-cap&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ciência_da_Computação-UniCEUB-00FF00?style=flat-square&logo=graduation-cap&logoColor=black&labelColor=0a0a0a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Brasília,_DF-00FF00?style=flat-square&logo=googlemaps&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Location-Brasília,_DF-00FF00?style=flat-square&logo=googlemaps&logoColor=black&labelColor=0a0a0a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CNH-B-00FF00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNH-B-00FF00?style=flat-square&labelColor=0a0a0a"/>
 </p>
 
 <p>
   <a href="https://linkedin.com/in/lucas-vieira-401440328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=0a0a0a"/>
   </a>
   &nbsp;
   <a href="mailto:lucasviese@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Email-Reach_Out-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=0a0a0a"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Lordexzin&color=00FF00&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Lordexzin&color=00FF00&style=flat-square&label=Profile+Views&labelColor=0a0a0a"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Lordexzin?style=flat-square&color=00FF00&label=Followers"/>
+<img src="https://img.shields.io/github/followers/Lordexzin?style=flat-square&color=00FF00&label=Followers&labelColor=0a0a0a"/>
 
 </div>
 
@@ -75,12 +75,12 @@ Administrador de Sistemas · Infraestrutura de TI
 ### Redes & Segurança
 
 <p>
-  <img src="https://img.shields.io/badge/TCP/IP-Expert-00FF00?style=flat-square&labelColor=000&logo=internetexplorer&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/DHCP-Advanced-00FF00?style=flat-square&labelColor=000"/>
-  <img src="https://img.shields.io/badge/DNS-Advanced-00FF00?style=flat-square&labelColor=000"/>
-  <img src="https://img.shields.io/badge/VPN-Intermediate-00FF00?style=flat-square&labelColor=000"/>
-  <img src="https://img.shields.io/badge/Cabeamento_Estruturado-Expert-00FF00?style=flat-square&labelColor=000"/>
-  <img src="https://img.shields.io/badge/Wi--Fi-Advanced-00FF00?style=flat-square&labelColor=000"/>
+  <img src="https://img.shields.io/badge/TCP/IP-Expert-00FF00?style=flat-square&labelColor=0a0a0a&logo=internetexplorer&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/DHCP-Advanced-00FF00?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/DNS-Advanced-00FF00?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/VPN-Intermediate-00FF00?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Cabeamento_Estruturado-Expert-00FF00?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Wi--Fi-Advanced-00FF00?style=flat-square&labelColor=0a0a0a"/>
 </p>
 
 ---
@@ -149,37 +149,37 @@ Administrador de Sistemas · Infraestrutura de TI
 
 **Cisco Networking Academy**
 
-![Cisco Redes](https://img.shields.io/badge/Cisco-Fundamentos_de_Redes-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=000)
+![Cisco Redes](https://img.shields.io/badge/Cisco-Fundamentos_de_Redes-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=0a0a0a)
 &nbsp;
-![Cisco Python](https://img.shields.io/badge/Cisco-Python_Essentials-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=000)
+![Cisco Python](https://img.shields.io/badge/Cisco-Python_Essentials-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=0a0a0a)
 
 <br/>
 
 **Cursos Complementares**
 
-![Redes](https://img.shields.io/badge/Course-Redes_de_Computadores-00FF00?style=flat-square&labelColor=000)
+![Redes](https://img.shields.io/badge/Course-Redes_de_Computadores-00FF00?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![Cibersegurança](https://img.shields.io/badge/Course-Introdução_à_Cibersegurança-00FF00?style=flat-square&labelColor=000)
+![Cibersegurança](https://img.shields.io/badge/Course-Introdução_à_Cibersegurança-00FF00?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![Ethical Hacker](https://img.shields.io/badge/Course-Ethical_Hacker-00FF00?style=flat-square&labelColor=000)
+![Ethical Hacker](https://img.shields.io/badge/Course-Ethical_Hacker-00FF00?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![Manutenção](https://img.shields.io/badge/Course-Manutenção_de_Computadores-00FF00?style=flat-square&labelColor=000)
+![Manutenção](https://img.shields.io/badge/Course-Manutenção_de_Computadores-00FF00?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![Python](https://img.shields.io/badge/Course-Fundamentos_de_Python-00FF00?style=flat-square&logo=python&logoColor=000&labelColor=000)
+![Python](https://img.shields.io/badge/Course-Fundamentos_de_Python-00FF00?style=flat-square&logo=python&logoColor=000&labelColor=0a0a0a)
 &nbsp;
-![Pacote Office](https://img.shields.io/badge/Course-Pacote_Office_Avançado-00FF00?style=flat-square&logo=microsoftoffice&logoColor=000&labelColor=000)
+![Pacote Office](https://img.shields.io/badge/Course-Pacote_Office_Avançado-00FF00?style=flat-square&logo=microsoftoffice&logoColor=000&labelColor=0a0a0a)
 
 <br/>
 
 **Em Andamento**
 
-![CompTIA Network+](https://img.shields.io/badge/Em_Andamento-CompTIA_Network+-FF9900?style=flat-square&labelColor=000)
+![CompTIA Network+](https://img.shields.io/badge/Em_Andamento-CompTIA_Network+-FF9900?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![CompTIA Security+](https://img.shields.io/badge/Em_Andamento-CompTIA_Security+-E52037?style=flat-square&labelColor=000)
+![CompTIA Security+](https://img.shields.io/badge/Em_Andamento-CompTIA_Security+-E52037?style=flat-square&labelColor=0a0a0a)
 &nbsp;
-![MD-102](https://img.shields.io/badge/Em_Andamento-Microsoft_MD--102-00FF00?style=flat-square&logo=microsoft&logoColor=000&labelColor=000)
+![MD-102](https://img.shields.io/badge/Em_Andamento-Microsoft_MD--102-00FF00?style=flat-square&logo=microsoft&logoColor=000&labelColor=0a0a0a)
 &nbsp;
-![CCNA](https://img.shields.io/badge/Em_Andamento-CCNA-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=000)
+![CCNA](https://img.shields.io/badge/Em_Andamento-CCNA-00FF00?style=flat-square&logo=cisco&logoColor=000&labelColor=0a0a0a)
 
 </div>
 
@@ -333,15 +333,15 @@ Aberto a:
 <div align="center">
 
 <a href="mailto:lucasviese@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-lucasviese@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Gmail-lucasviese@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=0a0a0a"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/lucas-vieira-401440328" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Lucas_Vieira-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas_Vieira-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=0a0a0a"/>
 </a>
 &nbsp;
 <a href="https://github.com/Lordexzin" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Lordexzin-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-Lordexzin-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0a0a0a"/>
 </a>
 
 <br/><br/>
@@ -352,6 +352,6 @@ Aberto a:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=root@lordexzin:~$_&theme=matrix&fontSize=25&fontAlignY=50&height=100" width="100%" alt="Terminal Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00FF00,100:000000&height=120&section=footer&text=%3E%3E_&fontSize=40&fontAlignY=70" width="100%" alt="Hacker Footer"/>
 
 </div>
