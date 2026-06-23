@@ -52,8 +52,8 @@ I'm a **Computer Science student** and **IT Support Analyst** based in Brasília
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lordexzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordexzin&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="160px">
 </p>
 
 ---
